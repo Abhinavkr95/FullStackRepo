@@ -8,7 +8,7 @@ public class Abc {
 		System.out.println("hello Abhinav I am TL :  yes");
 
 		Xyz xyz = new Xyz();
-		xyz.m1();
+		xyz.m2();
 
 	}
 
